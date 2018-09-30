@@ -20,4 +20,4 @@
     <pre><code> gulp svg</code></pre>
   </li>
 </ol>
-<p>В результате получаем в папке <b>media</b> файл <em>sprite.svg</em> спрат из SVG-файлов, а так же <em>svg_sprite.css</em> - со стилями. Атрибуты <em>fill</em> и <em>stroke</em> из  созданного SVG спрайта не удалаяются.</p>
+<p>В результате получаем в папке <b>media</b> файл <em>sprite.svg</em> спрайт из SVG-файлов, а так же <em>svg_sprite.css</em> - со стилями. Атрибуты <em>fill</em> и <em>stroke</em> из  созданного SVG спрайта не удалаяются.</p>
