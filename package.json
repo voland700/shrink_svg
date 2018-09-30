@@ -1,7 +1,7 @@
 {
- "name": "gulp.local",
+ "name": "shrink_svg",
  "version": "1.0.0",
- "description": "",
+ "description": "Create svg sprites",
  "main": "index.js",
  "dependencies": {},
  "devDependencies": {
@@ -11,6 +11,6 @@
  "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1"
  },
- "author": "",
+ "author": "Max Volcov",
  "license": "ISC"
 }
